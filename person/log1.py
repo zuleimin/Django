@@ -1,6 +1,6 @@
 import os,sys
 
-s='Lesson'
+s='repair'
 filenew=open('nce3.txt','r+')
 lines=filenew.readlines()
 filenew.close()
