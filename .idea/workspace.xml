@@ -2,9 +2,127 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c734355-5526-4b20-822b-81863808e47b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying9.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/person/log1.py" afterPath="$PROJECT_DIR$/person/log1.py" />
     </list>
     <ignored path="web2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -518,6 +636,14 @@
       <option name="presentableId" value="Default" />
       <updated>1476281573652</updated>
     </task>
+    <task id="LOCAL-00001" summary="log">
+      <created>1491491643740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491491643740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -555,6 +681,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="log" />
+    <option name="LAST_COMMIT_MESSAGE" value="log" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
