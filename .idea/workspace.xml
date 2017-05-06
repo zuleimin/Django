@@ -2,127 +2,189 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c734355-5526-4b20-822b-81863808e47b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair50.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair52.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair54.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair56.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair57.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair58.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair59.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair60.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/repair9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying50.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying52.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying54.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying56.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying57.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying58.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying59.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying60.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/person/trying9.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson35.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson41.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson46.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson51.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson52.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson53.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson54.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson56.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/nce3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair35.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair41.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair46.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair51.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair52.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair53.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair54.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair56.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying35.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying41.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying46.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying51.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying52.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying53.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying54.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying56.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying9.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/person/tests.py" afterPath="$PROJECT_DIR$/person/tests.py" />
     </list>
     <ignored path="web2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,6 +199,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/web2$test.coverage" NAME="test Coverage Results" MODIFIED="1491231713060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/person" />
     <SUITE FILE_PATH="coverage/web2$log1.coverage" NAME="log1 Coverage Results" MODIFIED="1491491489313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/person" />
+    <SUITE FILE_PATH="coverage/web2$tests.coverage" NAME="tests Coverage Results" MODIFIED="1492608445893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/person" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -158,11 +221,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="log1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="log1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/person/log1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/person/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/person/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -215,6 +298,7 @@
         <option value="$PROJECT_DIR$/person/trying3.txt" />
         <option value="$PROJECT_DIR$/person/trying4.txt" />
         <option value="$PROJECT_DIR$/person/log1.py" />
+        <option value="$PROJECT_DIR$/person/tests.py" />
       </list>
     </option>
   </component>
@@ -225,10 +309,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -255,6 +338,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -304,7 +388,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,7 +404,7 @@
       <recent name="C:\Users\zuleimin\PycharmProjects\web2\person" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.log1">
+  <component name="RunManager" selected="Python.tests">
     <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,6 +437,24 @@
       <module name="web2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person/log1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/person" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person/tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -613,15 +714,17 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Django server.web2" />
       <item index="1" class="java.lang.String" itemvalue="Python.test" />
       <item index="2" class="java.lang.String" itemvalue="Python.log1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tests" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.log1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.tests" />
+        <item index="1" class="java.lang.String" itemvalue="Python.log1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -643,20 +746,28 @@
       <option name="project" value="LOCAL" />
       <updated>1491491643740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="log">
+      <created>1491491776341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1491491776341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="676" y="0" width="697" height="745" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5007342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56828195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32348368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32334384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -667,7 +778,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="manage.py@web2" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -693,13 +803,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/person/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/person/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -859,15 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -875,7 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -883,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -891,7 +983,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -899,7 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,7 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,7 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,7 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="75" column="23" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,7 +1054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,7 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,7 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,7 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,7 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1019,6 +1096,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
