@@ -2,256 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c734355-5526-4b20-822b-81863808e47b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson34.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson35.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson41.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson46.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson47.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson50.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson51.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson52.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson53.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson54.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson55.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson56.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/Lesson9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/nce3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair34.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair35.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair41.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair46.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair47.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair50.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair51.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair52.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair53.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair54.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair55.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair56.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/repair9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying34.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying35.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying41.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying46.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying47.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying50.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying51.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying52.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying53.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying54.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying55.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying56.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person/trying9.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/person/tests.py" afterPath="$PROJECT_DIR$/person/tests.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <ignored path="web2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/web2$test.coverage" NAME="test Coverage Results" MODIFIED="1491231713060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/person" />
     <SUITE FILE_PATH="coverage/web2$log1.coverage" NAME="log1 Coverage Results" MODIFIED="1491491489313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/person" />
+    <SUITE FILE_PATH="coverage/Django$log1.coverage" NAME="log1 Coverage Results" MODIFIED="1533199328415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/person" />
+    <SUITE FILE_PATH="coverage/web2$test.coverage" NAME="test Coverage Results" MODIFIED="1491231713060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/person" />
     <SUITE FILE_PATH="coverage/web2$tests.coverage" NAME="tests Coverage Results" MODIFIED="1492608445893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/person" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
     <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Sqlite (Xerial) - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Sqlite (Xerial) - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="#1: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-443154346">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="auth_group" value="1" />
+          <entry key="auth_user" value="1" />
+          <entry key="django_admin_log" value="1" />
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="3" />
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py@web2" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CommandLine" value="25" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="web2" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="log1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/person/log1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/person/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/person/tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -308,278 +151,71 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="person" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)&#10;MySQL" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zuleimin\PycharmProjects\web2\person" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tests">
-    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/person" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="log1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/person" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person/log1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/person" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person/tests.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="web2" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.log1">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -600,97 +236,74 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration name="log1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/person" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person/log1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/person" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/person" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
+    <configuration name="web2" type="Python.DjangoServer" factoryName="Django server">
       <module name="web2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="web2" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -702,7 +315,6 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web2" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
       <option name="host" value="" />
@@ -712,24 +324,33 @@
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
-      <method />
+      <method v="2" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Django server.web2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.log1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tests" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.web2" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.log1" />
+      <item itemvalue="Python.tests" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.tests" />
-        <item index="1" class="java.lang.String" itemvalue="Python.log1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <list>
+        <item itemvalue="Python.log1" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -757,29 +378,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="745" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5007342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56828195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32334384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="manage.py@web2" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32330826" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="manage.py@web2" order="7" weight="0.32867885" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32975295" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3281493" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32975295" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.1609808" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -796,299 +425,63 @@
     <MESSAGE value="log" />
     <option name="LAST_COMMIT_MESSAGE" value="log" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/person/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson06.txt" />
-    <entry file="file://$PROJECT_DIR$/person/Lesson40.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81199">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson41.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson35.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1824">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson04.txt" />
-    <entry file="file://$PROJECT_DIR$/person/Lesson03.txt" />
-    <entry file="file://$PROJECT_DIR$/person/Lesson05.txt" />
-    <entry file="file://$PROJECT_DIR$/person/Lesson23.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson25.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson43.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson31.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson33.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson57.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson34.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson38.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-938">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/person/Lesson23.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson25.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson43.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson31.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson33.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson57.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson34.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson38.txt" />
     <entry file="file://$PROJECT_DIR$/person/Lesson00.txt" />
     <entry file="file://$PROJECT_DIR$/person/Lesson01.txt" />
     <entry file="file://$PROJECT_DIR$/person/Lesson02.txt" />
-    <entry file="file://$PROJECT_DIR$/person/Lesson59.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/person/Lesson59.txt" />
     <entry file="file://$PROJECT_DIR$/person/Lesson0.txt" />
-    <entry file="file://$PROJECT_DIR$/person/Lesson2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson2.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson56.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson3.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson4.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson7.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson9.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson10.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson1.txt" />
+    <entry file="file://$PROJECT_DIR$/person/Lesson60.txt" />
+    <entry file="file://$PROJECT_DIR$/person/trying60.txt" />
+    <entry file="file://$PROJECT_DIR$/person/trying2.txt" />
+    <entry file="file://$PROJECT_DIR$/person/trying3.txt" />
+    <entry file="file://$PROJECT_DIR$/person/trying4.txt" />
+    <entry file="file://$PROJECT_DIR$/person/trying1.txt" />
+    <entry file="file://$PROJECT_DIR$/person/trying59.txt" />
+    <entry file="file://$PROJECT_DIR$/person/nce3.txt" />
+    <entry file="file://$PROJECT_DIR$/person/repair9.txt" />
+    <entry file="file://$PROJECT_DIR$/person/repair8.txt" />
+    <entry file="file://$PROJECT_DIR$/person/repair7.txt" />
+    <entry file="file://$PROJECT_DIR$/person/repair6.txt" />
+    <entry file="file://$PROJECT_DIR$/person/repair5.txt" />
+    <entry file="file://$PROJECT_DIR$/person/repair4.txt" />
+    <entry file="file://$PROJECT_DIR$/person/repair3.txt" />
+    <entry file="file://$PROJECT_DIR$/person/repair2.txt" />
+    <entry file="file://$PROJECT_DIR$/person/repair1.txt" />
+    <entry file="das://d1e1def7-1fe2-4633-8113-554b3d8e698c/schema/&amp;empty;@#1/table/auth_group">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson56.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    <entry file="das://d1e1def7-1fe2-4633-8113-554b3d8e698c/schema/&amp;empty;@#1/table/django_admin_log">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson7.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson9.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson10.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/Lesson60.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/trying60.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/trying2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/trying3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/trying4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web2/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1552">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web2/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/trying1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/trying59.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/nce3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="75" column="23" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/repair9.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/repair8.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/repair7.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/repair6.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/repair5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/repair4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/repair3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/repair2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/person/repair1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    <entry file="das://d1e1def7-1fe2-4633-8113-554b3d8e698c/schema/&amp;empty;@#1/table/auth_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1096,7 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1104,7 +496,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1112,9 +512,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web2/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web2/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web2/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
